@@ -1,0 +1,16 @@
+# python version 3.12.11(better to go with 3.11 or 3.12)
+streamlit
+torch
+pandas
+plotly
+sqlalchemy
+llama-index-core
+llama-index-llms-openrouter
+llama-index-llms-openai
+llama-index-embeddings-huggingface
+llama-index-vector-stores-milvus
+llama-index-readers-docling
+cleanlab-codex
+nest-asyncio
+timm  #this is for (PyTorch Image Models) id getitng error install 1.0.13
+protobuf # used to generate Milvus protobuf files , any issue install 5.27.2

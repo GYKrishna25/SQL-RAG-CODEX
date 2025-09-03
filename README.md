@@ -23,13 +23,13 @@ We are developing a system that will guide you in creating a custom agent. This 
 3. **SME Intervention**: Domain specialists possess the ability to directly refine and optimize responses through the intuitive Codex platform interface, allowing for immediate correction of suboptimal outputs without requiring engineering intervention.
 4. **Continuous Learning**: The application systematically incorporates validated feedback and expert corrections to continuously refine its knowledge base, resulting in progressively more accurate and reliable performance with each subsequent interaction.
 
-We use:
+### We use:
 
 - [Llama_Index](https://docs.llamaindex.ai/en/stable/) for orchestration
 - [Docling](https://docling-project.github.io/docling) for simplifying document processing
 - [Milvus](https://milvus.io/) to self-host a VectorDB
 - **[Cleanlab Codex](https://help.cleanlab.ai/codex/)** for **response validation and reliability assurance** ⭐
-- [OpenRouterAI](https://openrouter.ai/docs/quick-start) to access Alibaba's Qwen model
+- [OpenRouterAI](https://openrouter.ai/docs/quick-start) to access LLM model
 
 > **💡 Key Insight**: While most tutorials focus on building agents, **[Cleanlab Codex](https://help.cleanlab.ai/codex/)** addresses the critical gap of ensuring those agents produce reliable, trustworthy outputs.
 

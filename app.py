@@ -622,7 +622,7 @@ def main():
     # Chat title and reset button in the same row
     chat_header_col1, chat_header_col2 = st.columns([6, 1])
     with chat_header_col1:
-        st.title("SQL + RAG + COndex Router 🔗")
+        st.title("SQL + RAG + CODEX Router 🔗")
         powered_by_html = """
             <div style='display: flex; align-items: center; gap: 10px; margin-top: -10px;'>
                 <span style='font-size: 20px; color: #666;'>Powered by</span>

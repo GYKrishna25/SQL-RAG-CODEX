@@ -18,10 +18,10 @@ We are developing a system that will guide you in creating a custom agent. This 
 
 ### **How It Works in This System:**
 
-1. **Query Processing**: Your queries are automatically validated by Cleanlab Codex
-2. **Response Validation**: AI responses are scored for reliability and accuracy
-3. **SME Intervention**: Subject Matter Experts can improve responses through the Codex interface
-4. **Continuous Learning**: The system learns from validated responses for future queries
+1. **Query Processing**: All user inquiries undergo automatic evaluation through Cleanlab Codex's sophisticated validation framework, ensuring each request is properly analyzed before processing begins.
+2. **Response Validation**: Each AI-generated output receives comprehensive reliability metrics and precision scoring, providing transparent insights into the confidence level of every response delivered to end users.
+3. **SME Intervention**: Domain specialists possess the ability to directly refine and optimize responses through the intuitive Codex platform interface, allowing for immediate correction of suboptimal outputs without requiring engineering intervention.
+4. **Continuous Learning**: The application systematically incorporates validated feedback and expert corrections to continuously refine its knowledge base, resulting in progressively more accurate and reliable performance with each subsequent interaction.
 
 We use:
 

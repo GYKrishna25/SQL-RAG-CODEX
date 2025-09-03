@@ -1,6 +1,6 @@
-# RAG with SQL Router
+# SQl- RAG - CODEX ROUETR
 
-We are developing a system that will guide you in creating a custom agent. This agent can query either your Vector DB index for RAG-based retrieval or a separate SQL query engine. 
+We are developing a system that will guide you in creating a custom agent. This agent can query either your Vector DB index for RAG-based retrieval or a separate SQL query engine and validate response through Codex
 
 ## 🔍 **The Critical Component: Response Validation**
 

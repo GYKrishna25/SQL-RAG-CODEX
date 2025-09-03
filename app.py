@@ -639,7 +639,7 @@ def main():
     st.markdown("---")
     col1, col2 = st.columns([4, 1])
     with col1:
-        st.markdown("💡 **Tip:** Want to explore the database? Click the button to view city data and run custom queries!")
+        st.markdown("💡 **Tip:** Want to explore the database? Click the button to view **Enterprise** data and run custom queries!")
     with col2:
         if st.button("🗄️ View Database"):
             st.session_state.show_database = True
